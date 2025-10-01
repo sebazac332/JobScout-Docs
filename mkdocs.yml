@@ -1,0 +1,6 @@
+site_name: Documentação JobScout
+
+nav:
+  - Home: "index.md"
+  - Visão de Produto e Projetos: "userstories.md"
+  - Diagrama UML: "umldiagram.md"
